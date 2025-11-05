@@ -65,26 +65,26 @@ Libraries	OpenCV, NumPy, Streamlit
 Deployment	GitHub / Local Machine
 
 ## ⚙️ Setup Instructions
-###🪄 Step 1: Clone the Repository
+### 🪄 Step 1: Clone the Repository
 git clone https://github.com/your-username/Smart-Waste-Management-System.git
 cd Smart-Waste-Management-System
 
-###🪄 Step 2: Create a Virtual Environment
+### 🪄 Step 2: Create a Virtual Environment
 python -m venv venv
 .\venv\Scripts\activate       # Windows
 source venv/bin/activate      # Linux/Mac
 
-###🪄 Step 3: Install Dependencies
+### 🪄 Step 3: Install Dependencies
 pip install -r requirements.txt
 
-###🪄 Step 4: Run the Application
+### 🪄 Step 4: Run the Application
 streamlit run app.py
 
 
-##Open your browser → http://localhost:8501
+## Open your browser → http://localhost:8501
 
-###📁 Project Structure
-##Smart-Waste-Management-System/
+### 📁 Project Structure
+## Smart-Waste-Management-System/
 │
 ├── app.py                  # Streamlit main app
 ├── detector.py             # YOLO-based detection logic
@@ -100,9 +100,9 @@ streamlit run app.py
 ├── requirements.txt
 └── README.md
 
-##Total reward is calculated per bottle and added to the user’s cumulative balance.
+## Total reward is calculated per bottle and added to the user’s cumulative balance.
 
-##📩 Email Example
+## 📩 Email Example
 
 Subject: Smart Waste Management - Transaction Summary
 
@@ -117,11 +117,11 @@ Your recycling transaction was successful! ♻
 Thank you for helping keep our planet clean! 🌍
 -- Smart Waste Management System
 
-##📱 SMS Example
+## 📱 SMS Example
 Hi Akshay, your recycling was successful!
 ₹45 credited for 5 bottles. ♻
 
-##🔐 API Setup (notify.py)
+## 🔐 API Setup (notify.py)
 
 In your notify.py, replace these placeholders with your real credentials:
 
@@ -136,7 +136,7 @@ TWILIO_NUMBER = "+1XXXXXXXXXX"
 ⚠️ You must create a Google App Password (for Gmail SMTP)
 and verify your Twilio phone number before sending messages.
 
-##🧠 Future Enhancements
+## 🧠 Future Enhancements
 Feature	Description
 🧠 AI Plastic Classifier	Identify plastic type (PET, HDPE, PVC)
 ⚖️ Smart Weight Predictor	Estimate actual bottle weight using ML
@@ -148,14 +148,14 @@ Registration	Scanning	Summary
 
 	
 	
-##🧰 Requirements File
+## 🧰 Requirements File
 streamlit
 opencv-python
 ultralytics
 numpy
 twilio
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 👤 Akshay Lanjewar
 📍 India
