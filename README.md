@@ -192,7 +192,7 @@ TWILIO_NUMBER = "+1XXXXXXXXXX"
 
 | Registration | Scanning | Summary |
 |---------------|-----------|----------|
-| ![Register](assets/register.png) | ![Scan](assets/scanning.png) | ![Summary](assets/summary.png) |
+| ![Register]("C:\Users\aksha\Downloads\images.png") | ![Scan](assets/scanning.png) | ![Summary](assets/summary.png) |
 
 ---
 
