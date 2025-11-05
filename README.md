@@ -1,5 +1,5 @@
-# ♻️ Smart Waste Management System (SWMS)
-### _AI-Powered Reverse Vending Machine for Plastic Bottles_
+# ♻️ Khul Ja Sim Sim
+### Smart Waste Management System (SWMS)
 
 <p align="center">
   <img src="assets/banner.png" alt="Smart Waste Banner" width="800"/>
