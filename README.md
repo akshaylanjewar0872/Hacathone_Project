@@ -188,14 +188,6 @@ TWILIO_NUMBER = "+1XXXXXXXXXX"
 
 ---
 
-## 📸 Screenshots
-
-| Registration | Scanning | Summary |
-|---------------|-----------|----------|
-| ![Register]("C:\Users\aksha\Downloads\images.png") | ![Scan](assets/scanning.png) | ![Summary](assets/summary.png) |
-
----
-
 ## 🧰 Requirements File
 ```text
 streamlit
