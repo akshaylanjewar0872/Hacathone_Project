@@ -207,12 +207,6 @@ twilio
 
 ---
 
-## 👨‍💻 Author
-
-**👤 Akshay Lanjewar**  
-📍 India  
-📧 [yourmail@gmail.com](mailto:yourmail@gmail.com)  
-💻 [GitHub Profile](https://github.com/your-username)
 
 > “Recycling turns things into other things —  
 > which is like magic for the planet.” 🌎✨
@@ -247,4 +241,3 @@ you are free to use and modify it with attribution.
 
 ---
 
-### 🚀 _Developed with ❤️ by Akshay Lanjewar_
