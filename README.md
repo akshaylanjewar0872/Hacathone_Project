@@ -1,4 +1,4 @@
-# ♻️ Khul Ja Sim Sim
+# ♻️ KHUL JA SIM SIM
 ### Smart Waste Management System (SWMS)
 
 <p align="center">
