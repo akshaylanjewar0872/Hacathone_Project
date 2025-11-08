@@ -198,8 +198,12 @@ twilio
 ```
 
 ---
-
-
+## How to Run
+- Get-ExecutionPolicy
+- Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+- .\venv\Scripts\activate
+- python -m streamlit run app.py
+---
 > “Recycling turns things into other things —  
 > which is like magic for the planet.” 🌎✨
 
